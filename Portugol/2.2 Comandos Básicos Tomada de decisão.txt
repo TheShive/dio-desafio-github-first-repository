@@ -1,0 +1,13 @@
+"n\" = quebra de linha
+
+cadeia = letras  e números
+
+caracter = 1 letra
+
+se = condição verdadeira
+
+senao = condição falsa
+
+caso = condição "melhor do que se em certos casos mais extensos"
+
+caso contrário = condição

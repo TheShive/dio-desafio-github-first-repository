@@ -1,8 +1,8 @@
 # Dio-desafio-github-first-repository
 Repositório criado para o Desafio de Projeto DIO
 
-- Estrutura de Repeticão
-- Tomadas de Decisões 
+- Estrutura de Repetição Modelo Portugol
+- Tomadas de Decisões Modelo Portugol
 
 
 ## Links

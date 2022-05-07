@@ -1,0 +1,9 @@
+limite = limita a quantidade máxima de contagem
+
+contador = conta de 1 até o limite
+
+contador  ++ = contador+1
+
+enquanto = repete as linhas
+
+faca = inicia o looping

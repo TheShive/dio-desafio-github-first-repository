@@ -1,0 +1,22 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro contador,limite,resultado,valor
+
+		escreva("Qual tabuada você deseja: ")
+		leia(valor)
+		
+		limite=10
+		contador=0
+		
+		faca{             //Bloco de Repetição de tabuada
+			
+			resultado = valor * contador
+			escreva(valor + " X " + contador + " = " + resultado + "\n" )
+			contador ++
+			
+		}enquanto (contador<=limite)
+	}
+}
