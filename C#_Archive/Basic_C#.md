@@ -106,6 +106,72 @@ Só ocorre em valores que são proporcionais, exemplo: int -> double ou int -> l
 
 
 
+#### Operador Condicional
+
+Possibilita mudar o fluxo da ação do código, indicando caminhos para que o usuário siga.
+
+
+
+If - compara se dois valores são ou não maiores ou menores("<" / ">" ) - 
+
+else - Senão - acompanha o "if".
+
+else if - usado quando existe mais de 2 opções de se seguir (**If Aninhado**) pode existir no código vários else if.
+
+
+
+**Switch case** (Condicional)
+
+é uma maneira alternativa de se usar o sistema condicional, quando há muitas opções, e pode tornar o código mais limpo, sendo mais fácil a sua manutenção.
+
+exemplo de utilização:
+
+Console.WriteLine("Digite uma letra: ");
+
+string? letra = Console.ReadLine();
+
+//Condicional usando o switch case
+
+switch (letra)
+
+{
+
+  case "a":
+
+  case "e":
+
+  case "i":
+
+  case "o":
+
+  case "u":
+
+​    Console.WriteLine("Vogal");
+
+​    break;
+
+  default:
+
+​    Console.WriteLine("Não é uma vogal");
+
+​    break;
+
+}
+
+
+
+#### Operadores Lógicos (utilizados principalmente com "if")
+
+*Operador "OR"* (Pipe -||) - segue acompanhando "if" ou "switch", se ao menos uma informação for verdadeira ele prossegue com o código.
+
+
+
+*Operador "AND"* (E - &&) - Só é verdadeiro se todas as condições forem verdadeiras(restrito) - acompanha "if" ou "switch".
+
+
+
+*Operador "NOT"* (Não - ! ) - Negação de um valor - acompanha "if" ou "switch".
+
 
 
 

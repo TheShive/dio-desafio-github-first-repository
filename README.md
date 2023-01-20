@@ -5,6 +5,11 @@ Repositório criado para o Desafio de Projeto DIO
 - Tomadas de Decisões Modelo Portugol
 - Comandos Git (Auxilio)
 - Basic C# - *Iniciante*
+  - Operadores (atribuição, condicional, lógicos)
+  - Tipos de Dados
+  - Sistema de Conversão
+  - Variáveis 
+
 
 
 ## Links
